@@ -3,7 +3,7 @@
 React native meal information on ingredients and steps to remake the meal.
 This app is devloped using expo and works both for ios and android.
 
-### About
+## About
 
 This is a learning project for react native, meal details app with details of ingredients is developed.
 You can favorite meals that will be shown in a nested navigation component.
@@ -13,9 +13,9 @@ THis was done under the course React Native - The Practical Guide (2022)
 ### `npm start`
 
 Runs the app in the development mode.
-Press a to run the app in android emulator
-Press i to run the app in iphone emulator
-Press r to reload the app
+- Press a to run the app in android emulator
+- Press i to run the app in iphone emulator
+- Press r to reload the app
 
 ### Home Screen
 
